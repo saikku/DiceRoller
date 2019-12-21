@@ -1,5 +1,5 @@
 //Copyright (c) 2019 by Jacob Schaefer (https://codepen.io/Pyremell/pen/eZGGXX)
-//Dice8
+    //Dice8
 var dice8 = {
     sides: 8,
     roll8: function () {
@@ -17,4 +17,4 @@ var button8 = document.getElementById('button8');
 button8.onclick = function () {
     var result8 = dice8.roll8();
     printNumber8(result8);
-};//Dice20
+};  //Dice8

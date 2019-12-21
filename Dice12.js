@@ -1,5 +1,5 @@
 //Copyright (c) 2019 by Jacob Schaefer (https://codepen.io/Pyremell/pen/eZGGXX)
-//Dice12
+    //Dice12
 var dice12 = {
     sides: 12,
     roll12: function () {
@@ -17,4 +17,4 @@ var button12 = document.getElementById('button12');
 button12.onclick = function () {
     var result12 = dice12.roll12();
     printNumber12(result12);
-};//Dice20
+};  //Dice12

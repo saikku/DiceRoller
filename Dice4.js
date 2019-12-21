@@ -1,3 +1,5 @@
+//Copyright (c) 2019 by Jacob Schaefer (https://codepen.io/Pyremell/pen/eZGGXX)
+    //Dice4
 var dice4 = {
     sides: 4,
     roll4: function () {
@@ -15,4 +17,4 @@ var button4 = document.getElementById('button4');
 button4.onclick = function () {
     var result4 = dice4.roll4();
     printNumber4(result4);
-};//Dice20
+};//Dice4
