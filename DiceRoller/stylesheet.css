@@ -182,7 +182,7 @@
   position: absolute;
   left: 100px;
   top: 150px;
-}
+} 
 #inputTextToSave {
   position: absolute;
   left: 800px; 
@@ -191,6 +191,6 @@
 
 #inputFileNameToSaveAs {
   position: absolute;
-  left: 170px; 
+  left: 80px; 
   top: 20px;
 }
